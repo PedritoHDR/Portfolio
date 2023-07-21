@@ -531,17 +531,20 @@ section {
 # Portfolio
 --------------------------------------------------------------*/
 
+#portfolio {
+  padding-bottom: 200px;
+}
 
+.card a {
+  font-size: 30px;
+}
 
 /*--------------------------------------------------------------
 # Contact
 --------------------------------------------------------------*/
-.contact {
-  padding-bottom: 130px;
-}
 
 .contact .info {
-  padding: 30px;
+  /* padding: 30px; */
   background: #fff;
   width: 100%;
   box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.12);
